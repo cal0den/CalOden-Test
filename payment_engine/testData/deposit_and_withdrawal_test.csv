@@ -1,14 +1,14 @@
 ﻿type,client,tx,amount
 deposit,1,1,1
 deposit,2,2,2
-deposit,3,3,3
-deposit,4,4,4
 deposit,5,5,5
+deposit,4,4,4
+deposit,3,3,3
 withdrawal,1,6,0.5
 withdrawal,2,7,1
 withdrawal,3,8,1.5
-withdrawal,4,9,2
 withdrawal,5,10,2.5
+withdrawal,4,9,2
 deposit,5,11,1
 deposit,4,12,2
 deposit,3,13,3
